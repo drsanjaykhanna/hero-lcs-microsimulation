@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.env
+*.log
+.vscode/
+.idea/
+new_analyses/v3/psa_chunks/
+new_analyses/v3/psa_wide_booking/chunks/
+
+GIT_CHEATSHEET.md
+push_to_github.ps1
